@@ -1,0 +1,5 @@
+.vscode/*
+CursoOnline.Dominio/bin/*
+CursoOnline.Dominio/obj/*
+CursoOnline.Dominio.Test/bin/*
+CursoOnline.Dominio.Test/obj/*
